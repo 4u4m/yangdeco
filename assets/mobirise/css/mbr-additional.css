@@ -1474,162 +1474,6 @@ body {
 .cid-qLRYww6fpw .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-qLRQQBaUyV {
-  overflow-x: hidden !important;
-}
-.cid-qLRQQBaUyV .container-fluid {
-  padding: 0 3rem;
-}
-.cid-qLRQQBaUyV .scroll-wrapper {
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-position: 100% 0;
-  background-size: cover;
-  position: absolute;
-  background-repeat: repeat;
-  z-index: 0;
-  background-image: url("../../../assets/images/main-top2-2000x1332.jpg");
-  -webkit-animation: scroll-wrapper linear infinite;
-  -moz-animation: scroll-wrapper linear infinite;
-  -o-animation: scroll-wrapper linear infinite;
-  animation: scroll-wrapper linear infinite;
-  transform: translateZ(0);
-}
-.cid-qLRQQBaUyV .scroll-wrapper.second {
-  left: calc(100% - 1px);
-  background-position: 0 0;
-}
-.cid-qLRQQBaUyV .mbr-overlay {
-  z-index: 1;
-}
-.cid-qLRQQBaUyV .block-content {
-  z-index: 2;
-}
-@keyframes scroll-wrapper {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-@-webkit-keyframes scroll-wrapper {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-@-moz-keyframes scroll-wrapper {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-@-o-keyframes scroll-wrapper {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-@media (max-width: 767px) {
-  .cid-qLRQQBaUyV .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-qLRQQBaUyV .mbr-section-title {
-  color: #232323;
-}
-.cid-qLRQQBaUyV .mbr-section-subtitle,
-.cid-qLRQQBaUyV .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-qLRQQBaUyV .mbr-section-subtitle,
-.cid-qLRQQBaUyV .mbr-section-btn DIV {
-  color: #232323;
-}
-.cid-qLRsTyIART {
-  background-color: #b2ccd2;
-  overflow: hidden !important;
-}
-.cid-qLRsTyIART .container-fluid {
-  padding: 0 5rem;
-}
-.cid-qLRsTyIART .animated-element {
-  color: #efefef;
-}
-.cid-qLRsTyIART .img-block {
-  align-self: center;
-}
-@media (max-width: 1199px) {
-  .cid-qLRsTyIART .mbr-figure img {
-    width: 100%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qLRsTyIART .container-fluid {
-    padding: 0 1rem;
-  }
-  .cid-qLRsTyIART .mbr-figure {
-    margin-top: 1rem;
-  }
-}
-.cid-qLRrWvodQL {
-  display: flex;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-qLRrWvodQL .mbr-overlay {
-  background: #7ccbf1;
-  background: linear-gradient(90deg, #7ccbf1, #ffa0a4);
-}
-.cid-qLRrWvodQL .mbr-section-title {
-  margin: 0;
-}
-.cid-qLRrWvodQL .mbr-text {
-  color: #efefef;
-}
-.cid-qLRrWvodQL .card-title {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-qLRrWvodQL .card-img {
-  text-align: left;
-}
-.cid-qLRrWvodQL .card .card-img span {
-  font-size: 60px;
-  color: #ffffff;
-}
-.cid-qLRrWvodQL .header-content {
-  margin-left: 3rem;
-  margin-right: 3rem;
-  align-self: stretch;
-  display: flex;
-  flex-direction: column;
-}
-.cid-qLRrWvodQL .header-content .text-row {
-  margin: auto 0;
-  align-items: center;
-}
-.cid-qLRrWvodQL .features-row {
-  justify-content: center;
-}
-@media (min-width: 992px) {
-  .cid-qLRrWvodQL .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qLRrWvodQL .header-content {
-    margin-right: 0;
-    margin-left: 0;
-  }
-}
 .cid-qLRVjUfqMU .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -2012,4 +1856,117 @@ body {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-qLSiCerroV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qLSiCerroV .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qLSiCerroV .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qLSiCerroV .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qLSiCerroV .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qLSiCerroV .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  background: linear-gradient(180deg, #ffffff, #44f7b3);
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qLSiCerroV .icon-focus {
+  display: none;
+}
+.cid-qLSiCerroV .mbr-gallery-title {
+  transition: all 0.5s ease;
+  position: absolute;
+  text-align: right;
+  display: none;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  padding: 1rem;
+  color: #000000;
+  font-weight: bold;
+  background: transparent;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+}
+.cid-qLSiCerroV ul {
+  font-size: 0;
+}
+.cid-qLSiCerroV .mbr-gallery-filter ul li .btn {
+  border: none;
+  background-color: transparent;
+  color: #232323 !important;
+  padding: 0.5rem 1rem 0.6rem;
+  border-radius: 0;
+  margin: 0!important;
+  transition: padding, border 0s, transform .2s;
+}
+.cid-qLSiCerroV .mbr-gallery-filter ul li .btn.active {
+  padding: 0.5rem 1rem 0.5rem;
+  border-radius: 0 !important;
+}
+.cid-qLSiCerroV .mbr-gallery-filter ul li .btn.active:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, #a38dfd, #fe525b);
+}
+.cid-qLSiCerroV .mbr-gallery-filter ul li {
+  padding: 0;
+}
+.cid-qLSiCerroV .mbr-gallery-item > div:hover .mbr-gallery-title {
+  padding-bottom: 1.5rem;
+  display: block;
+}
+.cid-qLSiCerroV .mbr-gallery-item > div:hover:before {
+  opacity: 0.8 !important;
+}
+.cid-qLSiCerroV .underline {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-qLSiCerroV .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #a38dfd, #fe525b);
+  display: inline-block;
+}
+.cid-qLSiCerroV .btn {
+  background: none;
+  border-radius: 0 !important;
+}
+.cid-qLSiCerroV .btn:hover {
+  background: transparent !important;
+}
+.cid-qLSiCerroV .btn:hover:before {
+  background: transparent !important;
+}
+.cid-qLSiCerroV .btn:before {
+  background-color: transparent !important;
+}
+.cid-qLSiCerroV .btn:focus {
+  box-shadow: none;
 }

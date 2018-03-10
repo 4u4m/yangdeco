@@ -316,7 +316,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "동대문 직영",
+                "title": "by 동대문",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "디자인&amp;인테리어 커튼 전문,&nbsp;동대문 직영으로 가격 DOWN",
@@ -324,24 +324,25 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=trK89_Lz-ac",
+                "videoUrl": "https://www.youtube.com/watch?v=jO07cmRsdAQ",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "맞춤 디자인",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "컨셉에 맞는 디자인 커튼을 제안해 드리고 맞춤 디자인도 제작해 드려요.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "컨셉에 맞는 디자인 커튼을 제안 및 맞춤 커튼 제작",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/main-top7-2000x1324.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -353,7 +354,7 @@
                 "title": "다양한 원단",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "고급 원단과 소재를 사용하여 멋진 인테리어를 연출해 보세요.",
+                "text": "고급 원단과 소재를 활용한 인테리어 디자인 커튼",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">FOR YOU</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">FOR YOU</a>",
                 "overlayOpacity": "0.5"
               }
